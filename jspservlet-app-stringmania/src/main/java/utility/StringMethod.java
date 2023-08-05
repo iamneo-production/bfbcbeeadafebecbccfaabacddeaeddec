@@ -1,4 +1,4 @@
-package utility;
+//package utility;
 
 public class StringMethod {
     private String input;
